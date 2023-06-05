@@ -11,3 +11,7 @@ public class SpringBootJpaHibernatePostgreSqlMavenApplication {
 	}
 
 }
+
+
+
+//https://www.bezkoder.com/spring-boot-postgresql-example/
